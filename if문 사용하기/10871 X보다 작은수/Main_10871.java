@@ -1,8 +1,5 @@
-/**
- * Created by heebin on 2017-01-05.
- */
 import java.util.*;
-public class main{
+public class Main_10871 {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
@@ -18,5 +15,3 @@ public class main{
         }
     }
 }
-
-
